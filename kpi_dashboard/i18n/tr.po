@@ -1,0 +1,574 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* kpi_dashboard
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-23 07:14+0000\n"
+"PO-Revision-Date: 2022-12-23 07:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__action_ids
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_action__action
+msgid "Action"
+msgstr "Aksiyon"
+
+#. module: kpi_dashboard
+#: model:ir.model,name:kpi_dashboard.model_ir_actions_act_window_view
+msgid "Action Window View"
+msgstr "Pencere Eylem Görünümü"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_kpi_form_view
+msgid "Actions"
+msgstr "Aksiyonlar"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,help:kpi_dashboard.field_kpi_kpi__action_ids
+msgid "Actions that can be opened from the KPI"
+msgstr "KPI üzeriden açılabilen aksiyonlar"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__active
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__active
+msgid "Active"
+msgstr "Aktif"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__args
+msgid "Args"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__background_color
+msgid "Background Color"
+msgstr "Arkaplan rengi"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_dashboard_item_config_form_view
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_dashboard_menu_form_view
+msgid "Cancel"
+msgstr "İptal"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__code
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__kpi_kpi__computation_method__code
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_kpi_form_view
+msgid "Code"
+msgstr "Kod"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__color
+msgid "Color"
+msgstr "Renk"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__column
+msgid "Column"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__computation_method
+msgid "Computation Method"
+msgstr "Hesaplama Yöntemi"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__compute_on_fly
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__compute_on_fly
+msgid "Compute On Fly"
+msgstr "Anında Hesapla"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__compute_on_fly_refresh
+msgid "Compute On Fly Refresh"
+msgstr "Anında Hesapla Güncelle"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_kpi_form_view
+msgid "Compute now"
+msgstr "Şimdi Hesapla"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__computed_date
+msgid "Computed Date"
+msgstr "Hesaplanan Tarih"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__computed_value
+msgid "Computed Value"
+msgstr "Hesaplanan Değer"
+
+#. module: kpi_dashboard
+#: model:ir.ui.menu,name:kpi_dashboard.kpi_dashboard_menu
+msgid "Configure Dashboard"
+msgstr "Paneli Yapılandır"
+
+#. module: kpi_dashboard
+#: model:ir.ui.menu,name:kpi_dashboard.kpi_kpi_menu
+msgid "Configure Kpi"
+msgstr "KPI Yapılandır"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_action__context
+msgid "Context"
+msgstr "Bağlam"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__kpi_kpi__widget__counter
+msgid "Counter"
+msgstr "Sayaç"
+
+#. module: kpi_dashboard
+#: model:ir.model,name:kpi_dashboard.model_kpi_dashboard_menu
+msgid "Create a Menu for a Dashboard"
+msgstr "Panel için menü oluştur"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__create_uid
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__create_uid
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_menu__create_uid
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__create_uid
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_action__create_uid
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_history__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__create_date
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__create_date
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_menu__create_date
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__create_date
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_action__create_date
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_history__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__cron_id
+msgid "Cron"
+msgstr "Zamanlayıcı"
+
+#. module: kpi_dashboard
+#: model:ir.model,name:kpi_dashboard.model_kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__dashboard_id
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_menu__dashboard_id
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__ir_actions_act_window_view__view_mode__dashboard
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__ir_ui_view__type__dashboard
+msgid "Dashboard"
+msgstr "Panel"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__dashboard_item_ids
+msgid "Dashboard Item"
+msgstr "Panel Öğesi"
+
+#. module: kpi_dashboard
+#: model:ir.model,name:kpi_dashboard.model_kpi_dashboard_item
+msgid "Dashboard Items"
+msgstr "Panel Öğeleri"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__display_name
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__display_name
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_menu__display_name
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__display_name
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_action__display_name
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_history__display_name
+msgid "Display Name"
+msgstr "Görünen Ad"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__end_column
+msgid "End Column"
+msgstr "Bitiş Kolonu"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__end_row
+msgid "End Row"
+msgstr "Bitiş Satırı"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_kpi_form_view
+msgid "Enter Python code here."
+msgstr "Buraya Python kodunu giriniz"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__font_color
+msgid "Font Color"
+msgstr "Yazı rengi"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__function
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__kpi_kpi__computation_method__function
+msgid "Function"
+msgstr "Fonksiyon"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_dashboard_menu_form_view
+msgid "Generate"
+msgstr "Oluştur"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_dashboard_menu_form_view
+msgid "Generate Menu"
+msgstr "Menu oluştur"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_kpi_form_view
+msgid "Generate cron"
+msgstr "Zamanlayıcı oluştur"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_dashboard_form_view
+msgid "Generate menu"
+msgstr "Menü oluştur"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__kpi_kpi__widget__graph
+msgid "Graph"
+msgstr "Grafik"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__group_ids
+msgid "Group"
+msgstr "Grup"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_dashboard_form_view
+msgid "Groups"
+msgstr "Gruplar"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__history_ids
+msgid "History"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__id
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__id
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_menu__id
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__id
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_action__id
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_history__id
+msgid "ID"
+msgstr "Kimlik"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__kpi_kpi__widget__integer
+msgid "Integer"
+msgstr "Tam Sayı"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__item_ids
+msgid "Item"
+msgstr "Öğe"
+
+#. module: kpi_dashboard
+#: model:ir.ui.menu,name:kpi_dashboard.menu_configuration_kpi_dashboards
+msgid "KPI Dashboards"
+msgstr "KPI Panelleri"
+
+#. module: kpi_dashboard
+#: model:ir.model,name:kpi_dashboard.model_kpi_kpi_action
+msgid "KPI action"
+msgstr "KPI Aksiyonu"
+
+#. module: kpi_dashboard
+#: model:ir.model,name:kpi_dashboard.model_kpi_kpi_history
+msgid "KPI history"
+msgstr "KPI Tarihçesi"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_dashboard_form_view
+msgid "KPIs"
+msgstr "KPI'lar"
+
+#. module: kpi_dashboard
+#: model:ir.actions.act_window,name:kpi_dashboard.kpi_kpi_act_window
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__kpi_id
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_action__kpi_id
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_history__kpi_id
+msgid "Kpi"
+msgstr "KPI"
+
+#. module: kpi_dashboard
+#: model:ir.actions.act_window,name:kpi_dashboard.kpi_dashboard_act_window
+msgid "Kpi Dashboard"
+msgstr "KPI Panelleri"
+
+#. module: kpi_dashboard
+#: model:ir.actions.act_window,name:kpi_dashboard.kpi_dashboard_menu_act_window
+msgid "Kpi Dashboard Menu"
+msgstr "KPI Panel Menüsü"
+
+#. module: kpi_dashboard
+#: model:ir.actions.act_window,name:kpi_dashboard.kpi_kpi_history_act_window
+msgid "Kpi History"
+msgstr "KPI Tarihçesi"
+
+#. module: kpi_dashboard
+#: model:ir.model,name:kpi_dashboard.model_kpi_kpi
+msgid "Kpi Kpi"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__kwargs
+msgid "Kwargs"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard____last_update
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item____last_update
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_menu____last_update
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi____last_update
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_action____last_update
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_history____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__write_uid
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__write_uid
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_menu__write_uid
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__write_uid
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_action__write_uid
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_history__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__write_date
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__write_date
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_menu__write_date
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__write_date
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_action__write_date
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_history__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:res.groups,name:kpi_dashboard.group_kpi_dashboard_manager
+msgid "Manage KPI Dashboards"
+msgstr "KPI Panellerini Yönet"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__margin_x
+msgid "Margin X"
+msgstr "Yataydaki ara boşluk"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__margin_y
+msgid "Margin Y"
+msgstr "Dikeydaki ara boşluk"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__menu_id
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_menu__menu_id
+msgid "Menu"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__kpi_kpi__widget__meter
+msgid "Meter"
+msgstr "Sayaç"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__model_id
+msgid "Model"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__modify_color
+msgid "Modify Color"
+msgstr "Rengi Düzenle"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__modify_color_expression
+msgid "Modify Color Expression"
+msgstr "Renk İfadelerini Düzenle"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__modify_context
+msgid "Modify Context"
+msgstr "Bağlamı Düzenle"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__modify_context_expression
+msgid "Modify Context Expression"
+msgstr "Bağlam İfadesini Düzenle"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__name
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__name
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__name
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_history__name
+msgid "Name"
+msgstr "İsim"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__kpi_kpi__widget__number
+msgid "Number"
+msgstr "Sayı"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__number_of_columns
+msgid "Number Of Columns"
+msgstr "Kolon sayısı"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__prefix
+msgid "Prefix"
+msgstr "Önek"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_history__raw_value
+msgid "Raw Value"
+msgstr "Ham Değer"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_kpi_history_tree_view
+msgid "Raw value"
+msgstr "Ham değer"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__row
+msgid "Row"
+msgstr "Satır"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_dashboard_item_config_form_view
+msgid "Save"
+msgstr "Kaydet"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,help:kpi_dashboard.field_kpi_dashboard__compute_on_fly_refresh
+msgid "Seconds to refresh on fly elements"
+msgstr "Anlık görüntüleme için güncelleme aralığı(sn)"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_kpi_form_view
+msgid "Show history"
+msgstr "Tarihçeyi göster"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_kpi_form_view
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_kpi_history_tree_view
+msgid "Show value"
+msgstr "Değer Göster"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__size_x
+msgid "Size X"
+msgstr "Yatay uzunluk"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__size_y
+msgid "Size Y"
+msgstr "Dikey uzunluk"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard_item__special_context
+msgid "Special Context"
+msgstr "Özel Bağlam"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__store_history
+msgid "Store History"
+msgstr "Tarihçeyi sakla"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__store_history_interval
+msgid "Store History Interval"
+msgstr "Tarihçe aralığını sakla"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__store_history_interval_number
+msgid "Store History Interval Number"
+msgstr "Tarihçe aralık numarasını sakla"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__suffix
+msgid "Suffix"
+msgstr "Sonek"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__value
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_history__value
+msgid "Value"
+msgstr "Değer"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__value_last_update
+msgid "Value Last Update"
+msgstr "Son güncellemedeki değer"
+
+#. module: kpi_dashboard
+#: model:ir.model,name:kpi_dashboard.model_ir_ui_view
+msgid "View"
+msgstr "Görüntüle"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_ir_actions_act_window_view__view_mode
+#: model:ir.model.fields,field_description:kpi_dashboard.field_ir_ui_view__type
+#: model:ir.model.fields,field_description:kpi_dashboard.field_website_page__type
+msgid "View Type"
+msgstr "Görünüm Türü"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi__widget
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_kpi_history__widget
+msgid "Widget"
+msgstr "Araç"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__widget_dimension_x
+msgid "Widget Dimension X"
+msgstr "Araç X Ölçüsü"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__widget_dimension_y
+msgid "Widget Dimension Y"
+msgstr "Araç Y Ölçüsü"
+
+#. module: kpi_dashboard
+#: model_terms:ir.ui.view,arch_db:kpi_dashboard.kpi_dashboard_form_view
+msgid "Widget configuration"
+msgstr "Araç Ayarları"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields,field_description:kpi_dashboard.field_kpi_dashboard__width
+msgid "Width"
+msgstr "Genişlik"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__kpi_kpi_action__action__ir_actions_act_url
+msgid "ir.actions.act_url"
+msgstr ""
+
+#. module: kpi_dashboard
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__kpi_kpi_action__action__ir_actions_act_window
+msgid "ir.actions.act_window"
+msgstr "Pencere İşlemleri"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__kpi_kpi_action__action__ir_actions_client
+msgid "ir.actions.client"
+msgstr "Kullanıcı İşlemleri"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__kpi_kpi_action__action__ir_actions_report
+msgid "ir.actions.report"
+msgstr "Raporlar"
+
+#. module: kpi_dashboard
+#: model:ir.model.fields.selection,name:kpi_dashboard.selection__kpi_kpi_action__action__ir_actions_server
+msgid "ir.actions.server"
+msgstr "Sunucu İşlemleri"
